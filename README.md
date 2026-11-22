@@ -86,4 +86,4 @@ The raw service-delivery data was cleaned and prepared in SQL before modeling:
 ## Author
 
 **Zeyad Ashraf** - Data Analyst
-[LinkedIn](https://www.linkedin.com/in/zeyad-ashraf-065794371) | [GitHub](https://github.com/Zeyada0) | [Portfolio](https://zeyadashraf-data.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/zeyad-ashraf-065794371) | [GitHub](https://github.com/Zeyada0) | [Portfolio](https://zeyada0.github.io/portfolio/)
