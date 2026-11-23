@@ -80,7 +80,8 @@ The raw service-delivery data was cleaned and prepared in SQL before modeling:
 
 ## Files
 
-- `Service-Insight-Suite.pbix` - full Power BI report with embedded data
+This repository contains a project overview and dashboard screenshots only. The Power BI report file and underlying data are not distributed.
+
 - `screenshots/` - dashboard page screenshots
 
 ## Author
